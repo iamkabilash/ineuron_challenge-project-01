@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 0;
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 50px;
+    align-items: center;
+    justify-content: center;
+    font-family: Orbitron;
+    font-size: 20px;
+}
+.list li{
+    display: inline;
+    padding-left: 30px;
+}
+.button-group div{
+    display: inline;
+}
+#brand-logo{
+    width: 120px;
+    height: auto;
+}
+#brand-logo-div{
+    margin-left: 20px;
+    margin-right: auto;
+}
+.button-group{
+    margin-right: 150px;
+    margin-left: auto;
+}
+.banner{
+    display: flex;
+    padding-top: 80px;
+}
+.hero-container-right{
+    display: flex;
+    flex-direction: column;
+}
+.hero-container{
+    position: relative;
+}
