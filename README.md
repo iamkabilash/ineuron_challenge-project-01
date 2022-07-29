@@ -13,7 +13,7 @@
 ![Project](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=appveyor)
 
 # Time to finish this project
-![Project](https://img.shields.io/badge/Time%20to%20finish%20the%20project-2%20Hours%2030%20Minutes-green?style=for-the-badge&logo=appveyor)
+[![Project](https://img.shields.io/badge/Time%20to%20finish%20the%20project-2%20Hours%2030%20Minutes-green?style=for-the-badge&logo=appveyor)](#)
 
 # Screenshots
 ![](./thumbnail.png)
